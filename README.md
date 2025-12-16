@@ -1,2 +1,2 @@
 # Atividade-de-valida-o-dos-pilares-de-POO
-<img width="651" height="200" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/ac7122b6-239d-4875-b417-1a165c24a6d6" />
+<img width="497" height="261" alt="Diagrama sem nome drawio (1)" src="https://github.com/user-attachments/assets/4094d572-65d5-476b-b2d9-ed4ba2c95e90" />
